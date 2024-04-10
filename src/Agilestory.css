@@ -1,0 +1,115 @@
+body {
+  background: url(../public/back-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+main {
+  width: auto;
+  text-align: center;
+  background-color: rgba(245, 245, 220, 0.388);
+  padding: 50px;
+}
+
+h2 {
+  width: 80%;
+  padding: 20px;
+  margin-left: 120px;
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  background-color: rgba(250, 235, 215, 0.717);
+  border-radius: 20px 20px;
+  box-shadow: 10px 15px rgba(252, 228, 109, 0.826);
+}
+
+.container {
+  max-width: 1200px;
+}
+
+.form-label {
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.form-control {
+  border-radius: 5px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.form-control:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: antiquewhite;
+}
+
+.card-header {
+  padding: 10px 20px;
+  background-color: #79e12581;
+}
+
+.card-title {
+  margin: 0;
+}
+
+.card-text {
+  margin: 0;
+}
+
+.card button {
+  margin-right: 5px;
+  margin-top: 10px;
+}
+
+.badge {
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+.bg-primary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.bg-danger {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-bottom: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.btn-danger:hover {
+  background-color: #bd2130;
+}
