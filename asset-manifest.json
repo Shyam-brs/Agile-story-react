@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Agile-story-react/static/css/main.252a35ac.css",
+    "main.js": "/Agile-story-react/static/js/main.7baaaa36.js",
+    "static/js/453.57487a93.chunk.js": "/Agile-story-react/static/js/453.57487a93.chunk.js",
+    "static/media/back-bg.jpg": "/Agile-story-react/static/media/back-bg.14535b301d1b10297954.jpg",
+    "index.html": "/Agile-story-react/index.html",
+    "main.252a35ac.css.map": "/Agile-story-react/static/css/main.252a35ac.css.map",
+    "main.7baaaa36.js.map": "/Agile-story-react/static/js/main.7baaaa36.js.map",
+    "453.57487a93.chunk.js.map": "/Agile-story-react/static/js/453.57487a93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.252a35ac.css",
+    "static/js/main.7baaaa36.js"
+  ]
+}
